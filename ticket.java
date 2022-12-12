@@ -13,16 +13,16 @@ public class Third {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("나이를 입력해 주세요. (숫자) : " + FONT_GREEN);
+        System.out.print("나이를 입력해 주세요. (숫자) : ");
         int age = sc.nextInt();
 
-        System.out.print(RESET + "입장시간을 입력해 주세요. (숫자입력) : " + FONT_GREEN);
+        System.out.print(RESET + "입장시간을 입력해 주세요. (숫자입력) : ");
         int entryTime = sc.nextInt();
 
-        System.out.print(RESET + "국가유공자 여부를 입력해 주세요. (y/n) : " + FONT_GREEN);
+        System.out.print(RESET + "국가유공자 여부를 입력해 주세요. (y/n) : ");
         char ck_nationalMerit = sc.next().trim().charAt(0);
 
-        System.out.print(RESET + "복지카드 여부를 입력해 주세요. (y/n) : " + FONT_GREEN);
+        System.out.print(RESET + "복지카드 여부를 입력해 주세요. (y/n) : ");
         char ck_welfare = sc.next().trim().charAt(0);
 
         int price;
