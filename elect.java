@@ -1,4 +1,4 @@
-//당선 프로그램_JYS
+//당선 프로그램_장연숙
 import java.util.*;
 import java.util.Map.Entry;
 
