@@ -1,4 +1,4 @@
-//놀이공원 입장권 계산_JYS
+//놀이공원 입장권 계산_장연숙
 import java.util.Scanner;
 
 public class Third {
