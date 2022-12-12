@@ -1,4 +1,4 @@
-//세금계산 프로그램_JYS
+//세금계산 프로그램_장연숙
 import java.util.*;
 
 public class Eighth {
