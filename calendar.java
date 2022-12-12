@@ -1,4 +1,4 @@
-//달력 프로그램_JYS
+//달력 프로그램_장연숙
 import java.util.Calendar;
 import java.util.Scanner;
 
@@ -12,7 +12,7 @@ public class Fifth {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("달력의 넌도를 입력해 주세요. (yyyy) : ");
+        System.out.print("달력의 년도를 입력해 주세요. (yyyy) : ");
         int year = sc.nextInt();
 
         System.out.print(RESET + "달력의 월을 입력해 주세요. (mm) : ");
