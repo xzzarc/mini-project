@@ -1,4 +1,4 @@
-//주민등록번호_JYS
+//주민등록번호_장연숙
 import java.util.Scanner;
 
 public class Fourth {
