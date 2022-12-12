@@ -1,4 +1,4 @@
-//로또 프로그램_JYS
+//로또 프로그램_
 import java.util.*;
 
 public class Seventh {
