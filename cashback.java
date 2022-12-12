@@ -3,8 +3,7 @@ import java.util.Scanner;
 
 public class Second {
 
-    public static final String RESET = "\u001B[0m";    
-    public static final String FONT_GREEN = "\u001B[32m";    
+    public static final String RESET = "\u001B[0m";      
 
     public static void main(String[] args) {
 
@@ -12,7 +11,7 @@ public class Second {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("결제 금액을 입력해 주세요. (금액) : " + FONT_GREEN);
+        System.out.print("결제 금액을 입력해 주세요. (금액) : ");
 
         int amount = sc.nextInt();
         int cashback;
