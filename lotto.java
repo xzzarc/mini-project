@@ -1,4 +1,4 @@
-//로또 프로그램_
+//로또 프로그램_장연숙
 import java.util.*;
 
 public class Seventh {
